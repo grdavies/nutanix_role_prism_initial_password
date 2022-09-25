@@ -1,0 +1,7 @@
+---
+# defaults file for nutanix_role_prism_initial_password
+  nutanix_debug: False
+  validate_certs: no
+  nutanix_prism_pwd_username: admin
+  nutanix_prism_pwd_port: 9440
+  
